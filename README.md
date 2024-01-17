@@ -16,12 +16,6 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 - Technologies Used: List the technologies and tools used in the project.
 - GitHub Repository: Link to the GitHub repository for the project.
 
-## Education
-- **Degree:** [Your Degree]
-- **University:** [Name of the University]
-- **Year Graduated:** [Year]
-
-
 ## Contact
 - **Email:** saurabh.damale.developer@gmail.com
 
