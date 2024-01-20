@@ -5,10 +5,11 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript (React.js)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Backend:** Node.js, Express.js, Php
+- **Database:** MongoDB, MySQL
+- **Frameworks:** Bootstrap, Tailwind CSS, Laravel
 - **Version Control:** Git, GitHub
-- **Other Tools:** npm, Yarn, Postman
+- **Other Tools:** npm, Yarn, Postman, Jira Software
 
 ## Projects
 ### Project 1: [Project Name]
