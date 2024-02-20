@@ -7,15 +7,15 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 - **Frontend:** HTML, CSS, JavaScript (React.js)
 - **Backend:** Node.js, Express.js, Php
 - **Database:** MongoDB, MySQL
-- **Frameworks:** Bootstrap, Tailwind CSS, Laravel
+- **Frameworks:** Bootstrap, Tailwind CSS, CodeIgniter
 - **Version Control:** Git, GitHub
-- **Other Tools:** npm, Yarn, Postman, Jira Software
+- **Other Tools:** Postman, Jira Software
 
 ## Projects
-### Project 1: [Project Name]
-- Description: Brief overview of the project, its purpose, and features.
-- Technologies Used: List the technologies and tools used in the project.
-- GitHub Repository: Link to the GitHub repository for the project.
+### Project 1: To Do App
+- Description: Developed a web-based to-do list application to help users organize and manage their tasks effectively. The app allows users to create, edit, and delete tasks. It may include features like setting due dates, categorizing tasks. 
+- Technologies Used: html , css, javascript, jquery , Ajax , php, MySQL
+- GitHub Repository: 
 
 ## Contact
 - **Email:** saurabh.damale.developer@gmail.com
