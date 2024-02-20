@@ -15,7 +15,7 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 ### Project 1: To Do App
 - Description: Developed a web-based to-do list application to help users organize and manage their tasks effectively. The app allows users to create, edit, and delete tasks. It may include features like setting due dates, categorizing tasks. 
 - Technologies Used: html , css, javascript, jquery , Ajax , php, MySQL
-- GitHub Repository: [here](https://github.com/HackRoot1/to_do_webapp).
+- GitHub Repository: [To Do App](https://github.com/HackRoot1/to_do_webapp).
 
 ## Contact
 - **Email:** saurabh.damale.developer@gmail.com
