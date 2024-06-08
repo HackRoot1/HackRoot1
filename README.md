@@ -83,12 +83,12 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HackRoot1&show_icons=true&locale=en&layout=compact" alt="HackRoot1" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackRoot1&show_icons=true&locale=en&layout=compact" alt="HackRoot1" />
 </p>
 
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HackRoot1&show_icons=true&locale=en" alt="HackRoot1" />
+<p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=HackRoot1&show_icons=true&locale=en" alt="HackRoot1" />
 </p>
 
 <p>
