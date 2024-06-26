@@ -12,10 +12,16 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 - **Other Tools:** Postman, Jira Software
 
 ## Projects
-### Project 1: To Do App
+### Project 1: Job Portal Project
+- Description: Developed a comprehensive job portal to connect candidates and employers. The portal provides various features for both user roles to manage job applications and postings efficiently.
+- Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
+- GitHub Repository: [Job Portal](https://github.com/HackRoot1/job_portal).
+
+### Project 2: To Do App
 - Description: Developed a web-based to-do list application to help users organize and manage their tasks effectively. The app allows users to create, edit, and delete tasks. It may include features like setting due dates, categorizing tasks. 
-- Technologies Used: html , css, javascript, jquery , Ajax , php, MySQL
+- Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
 - GitHub Repository: [To Do App](https://github.com/HackRoot1/to_do_webapp).
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
