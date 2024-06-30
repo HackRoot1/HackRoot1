@@ -88,18 +88,28 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 </p>
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackRoot1&show_icons=true&locale=en&layout=compact" alt="HackRoot1" />
-</p>
 
+### Leetcode
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=HackRoot1&show_icons=true&locale=en" alt="HackRoot1" />
-</p>
+  <div align="center">
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HackRoot1&" alt="HackRoot1" />
-</p>
+![LeetCode Stats](https://leetcode.card.workers.dev/HackRoot1?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+<h2> Stats </h2>
+<div align="center">
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=HackRoot1&theme=tokyo-night)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=HackRoot1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=HackRoot1&theme=tokyonight&hide_border=false)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackRoot1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+  
+</div>
+
 
 
 ## Contact
