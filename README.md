@@ -22,11 +22,26 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer w
 - Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
 - GitHub Repository: [To Do App](https://github.com/HackRoot1/to_do_webapp).
 
+<style>
+.langNtools a {
+    text-decoration: none;
+}
+
+.langNtools img {
+    height: 50px;
+    width : 50px;
+    border: 1px solid; 
+    background-color: #f0f0f0; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: none; outline: none;
+}
+</style>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" class = "langNtools"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
