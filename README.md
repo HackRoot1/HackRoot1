@@ -1,26 +1,27 @@
-# Personal Profile - MERN Stack Developer
+# Personal Profile - Laravel Developer
 
 ## Introduction
-Hello there! 👋 I'm Saurabh Kailas Damale, a passionate MERN stack developer with a strong background in creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions, and I'm always eager to learn new technologies and tools to enhance my development skills.
+Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with a strong background in creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions, and I'm always eager to learn new technologies and tools to enhance my development skills.
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript (React.js)
-- **Backend:** Node.js, Express.js, Php
+- **Backend:** Php, Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Frameworks:** Bootstrap, Tailwind CSS, Laravel
 - **Version Control:** Git, GitHub
 - **Other Tools:** Postman, Jira Software
 
 ## Projects
-### Project 1: Job Portal Project
-- Description: Developed a comprehensive job portal to connect candidates and employers. The portal provides various features for both user roles to manage job applications and postings efficiently.
-- Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
-- GitHub Repository: [Job Portal](https://github.com/HackRoot1/job_portal_project).
 
-### Project 2: To Do App
-- Description: Developed a web-based to-do list application to help users organize and manage their tasks effectively. The app allows users to create, edit, and delete tasks. It may include features like setting due dates, categorizing tasks. 
+### Project1: CraveBox
+- Developed a comprehensive Laravel-based application to streamline restaurant operations, including reservation management, menu customization, and order tracking. Integrated Razorpay API for seamless payment processing.
+- Technologies Used: Laravel, MySQL, Bootstrap, Razorpay API
+- GitHub Repository: [https://github.com/HackRoot1/e-commerce](https://github.com/HackRoot1/CraveBox.git )
+
+### Project 2: JobSphere
+- Designed a web-based platform to simplify job searching and recruitment processes, featuring user authentication and dynamic job listings. Enhanced user experience by implementing a clean and intuitive interface for job seekers and employers.
 - Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
-- GitHub Repository: [To Do App](https://github.com/HackRoot1/to_do_webapp).
+- GitHub Repository: [https://github.com/HackRoot1/job_portal_project](https://github.com/HackRoot1/JobSphere.git )
 
 
 <h3 align="left">Languages and Tools:</h3>
