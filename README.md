@@ -16,12 +16,12 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with
 ### Project1: CraveBox
 - Developed a comprehensive Laravel-based application to streamline restaurant operations, including reservation management, menu customization, and order tracking. Integrated Razorpay API for seamless payment processing.
 - Technologies Used: Laravel, MySQL, Bootstrap, Razorpay API
-- GitHub Repository: [https://github.com/HackRoot1/e-commerce](https://github.com/HackRoot1/CraveBox.git )
+- GitHub Repository: [https://github.com/HackRoot1/CraveBox](https://github.com/HackRoot1/CraveBox.git )
 
 ### Project 2: JobSphere
 - Designed a web-based platform to simplify job searching and recruitment processes, featuring user authentication and dynamic job listings. Enhanced user experience by implementing a clean and intuitive interface for job seekers and employers.
 - Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
-- GitHub Repository: [https://github.com/HackRoot1/job_portal_project](https://github.com/HackRoot1/JobSphere.git )
+- GitHub Repository: [https://github.com/HackRoot1/JobSphere](https://github.com/HackRoot1/JobSphere.git )
 
 
 <h3 align="left">Languages and Tools:</h3>
