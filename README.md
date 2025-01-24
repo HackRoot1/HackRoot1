@@ -104,9 +104,9 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with
 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=HackRoot1&theme=tokyo-night)
   
-  ![](https://github-readme-stats.vercel.app/api?username=HackRoot1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![Commits](https://github-readme-stats.vercel.app/api?username=HackRoot1&theme=tokyonight&hide_border=false&include_all_commits=true)<br/>
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=HackRoot1&theme=tokyonight)<br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HackRoot1&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackRoot1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
   
