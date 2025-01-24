@@ -95,7 +95,7 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with
 
   <div align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/HackRoot1?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HackRoot1?theme=auto&font=baloo&extension=null)
 
   </div>
 
