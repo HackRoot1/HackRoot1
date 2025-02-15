@@ -1,25 +1,28 @@
 # Personal Profile - Laravel Developer
+<br />
 
 ## Introduction
 Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with a strong background in creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions, and I'm always eager to learn new technologies and tools to enhance my development skills.
+<br />
 
 ## 💼 Experience  
 
-### 🚀 Currently Working In Technofra As: PHP Web Developer (PHP Laravel)  
+### Currently Working In Technofra As: PHP Web Developer (PHP Laravel)  
 - Developing dynamic web applications with **secure authentication and authorization**.  
 - Building a **website name** with **functionality**, and **functionality**.  
 - Creating **REST APIs** for seamless communication between frontend and backend.  
+<br />
 
-
-## Skills
+## 🚀 Skills
 - **Frontend:** HTML, CSS, JavaScript (React.js)
 - **Backend:** Php, Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Frameworks:** Bootstrap, Tailwind CSS, Laravel
 - **Version Control:** Git, GitHub
 - **Other Tools:** Postman, Jira Software, Restful API
+<br />
 
-## Projects
+## 📌 Projects
 
 ### Project1: CraveBox
 - Developed a comprehensive Laravel-based application to streamline restaurant operations, including reservation management, menu customization, and order tracking. Integrated Razorpay API for seamless payment processing.
@@ -30,9 +33,9 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with
 - Designed a web-based platform to simplify job searching and recruitment processes, featuring user authentication and dynamic job listings. Enhanced user experience by implementing a clean and intuitive interface for job seekers and employers.
 - Technologies Used: HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL
 - GitHub Repository: [https://github.com/HackRoot1/JobSphere](https://github.com/HackRoot1/JobSphere.git )
+<br />
 
-
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -122,10 +125,12 @@ Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with
 
 
 
-## Contact
-- **Email:** saurabh.damale.developer@gmail.com
+## 📬 Get in Touch
 
-## Get in Touch
+- 📧 **Email:** saurabh.damale.developer@gmail.com
+- 🏗️ **Portfolio:** https://saurabh-damale-portfolio.vercel.app/  
+- 🌟 **GitHub:**  https://github.com/HackRoot1
+
 I'm always open to collaboration and exploring new opportunities. If you have any questions, want to discuss a project, or just chat about technology, feel free to reach out!
 
 Feel free to explore my GitHub repositories for more code samples and projects. Happy coding! 🚀
