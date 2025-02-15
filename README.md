@@ -3,6 +3,14 @@
 ## Introduction
 Hello there! 👋 I'm Saurabh Kailas Damale, a passionate Laravel developer with a strong background in creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions, and I'm always eager to learn new technologies and tools to enhance my development skills.
 
+## 💼 Experience  
+
+### 🚀 Currently Working In Technofra As: PHP Web Developer (PHP Laravel)  
+- Developing dynamic web applications with **secure authentication and authorization**.  
+- Building a **website name** with **functionality**, and **functionality**.  
+- Creating **REST APIs** for seamless communication between frontend and backend.  
+
+
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript (React.js)
 - **Backend:** Php, Node.js, Express.js
