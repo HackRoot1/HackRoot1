@@ -122,6 +122,14 @@ Worked on Laravel application development and backend functionality, contributin
 
 ## 🚀 Featured Projects
 
+My projects are organized into a dedicated repository catalog so that each project can have its own documentation, source code, and development history.
+
+<p align="center">
+  <a href="https://github.com/HackRoot1/my-projects">
+    <img src="https://img.shields.io/badge/📂%20EXPLORE%20ALL%20MY%20REPOSITORIES-FF2D20?style=for-the-badge&logo=github&logoColor=white" alt="Explore All My Repositories" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/HackRoot1/CraveBox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HackRoot1&repo=CraveBox&theme=tokyonight&hide_border=true" alt="CraveBox Repository" />
